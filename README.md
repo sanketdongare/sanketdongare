@@ -1,4 +1,4 @@
-![logo](https://github.com/sanketdongare/sanketdongare/blob/main/sanketdongare.jpg)
+![logo](https://github.com/sanketdongare/sanketdongare/blob/main/sanketdongare)
 
 <h1 align="center">Hi 👋, I'm Sanket Dhondibhau Dongare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
